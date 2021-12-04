@@ -1,0 +1,16 @@
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "a simple task manager using cli made using js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ridsuteri",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "express": "^4.17.1",
+    "yargs": "^17.3.0"
+  }
+}
